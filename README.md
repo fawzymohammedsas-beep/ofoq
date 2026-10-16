@@ -1,2 +1,0 @@
-# ofoq
-ofoq education 
